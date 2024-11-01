@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Visitas On-Line\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-21 21:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: visitas"
+
+#: paginas/mostrar-visitas-page.php:31
+msgid " Buscar"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:7
+msgid " y es compatible con "
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:17
+msgid "Ajustes => Generales => Zona horaria"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:30
+msgid "Buscar Visitas"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:91 paginas/mostrar-visitas-page.php:129
+msgid "Cantidad"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:108
+msgid "Cantidad de Veces"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:17
+msgid "Captura de Pantalla:"
+msgstr ""
+
+#: includes/ajustes.php:20 includes/ajustes.php:21
+msgid "Configuración"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:13
+msgid "Configuración de la Zona Horaria"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:17
+msgid "del Menú Lateral de tu Escritorio."
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:108
+msgid "Detalle"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:151
+msgid "Fecha del Informe:"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:69
+msgid "Hora"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nelsondiazrodriguez.tk"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://nelsondiazrodriguez.tk/plugins-WP/visitas-on-line"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:67
+msgid "Impresiones:"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:7
+msgid "Internamente funciona gracias a la base de datos de "
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:68 paginas/mostrar-visitas-page.php:91
+msgid "IP"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:90
+msgid "IP únicas"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:6
+msgid "ip, página visitada, día y hora, país y referencia de donde proviene"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:25
+msgid "Mostrar Informe del Día:&nbsp"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nelson Díaz"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:69 paginas/mostrar-visitas-page.php:91
+#: paginas/mostrar-visitas-page.php:128
+msgid "País"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:68
+msgid "Página visitada"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:107
+msgid "Páginas MÁS Visitadas"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:69 paginas/mostrar-visitas-page.php:91
+msgid "Referencia"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:6
+msgid ""
+"se caracteriza por mostrar toda la actividad que realiza una ip, en nuestra "
+"web. Cada visita es registrada con los siguientes datos: "
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:16
+msgid ""
+"Si tu Zona Horaria NO es correcta (para modificarla), deberás realizarlo en: "
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:125
+msgid "Total Visitas MES"
+msgstr ""
+
+#: paginas/mostrar-visitas-page.php:144
+msgid "Total Visitas Mes:"
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:6
+msgid "Visitas on line"
+msgstr ""
+
+#. Name of the plugin
+#: paginas/mostrar-visitas-page.php:21 includes/ajustes.php:12
+#: includes/ajustes.php:13
+msgid "Visitas On-Line"
+msgstr ""
+
+#. Description of the plugin
+msgid "Visitas on-line."
+msgstr ""
+
+#: paginas/mostrar-ajustes-page.php:15
+msgid "Zona Horaria Actual: "
+msgstr ""
